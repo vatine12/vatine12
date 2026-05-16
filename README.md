@@ -35,7 +35,7 @@ YOLOv8n · Stereo Vision · ByteTrack · TensorFlow Lite · Trained on H200 GPU
 
 **ML / AI:** PyTorch · TensorFlow · YOLOv8 · TF Lite · Hugging Face · PEFT / QLoRA · OpenCV · ByteTrack
 
-**Languages:** Python (3yr) · C++ (2yr) · SQL
+**Languages:** Python · C++ · SQL
 
 **Tools:** Raspberry Pi · Arduino · Linux · Jupyter · Kaggle · Google Colab
 
@@ -43,7 +43,7 @@ YOLOv8n · Stereo Vision · ByteTrack · TensorFlow Lite · Trained on H200 GPU
 
 ## 🌐 Languages
 
-🇻🇳 Vietnamese (native) &nbsp;·&nbsp; 🇬🇧 English (bilingual, IELTS 8.0) &nbsp;·&nbsp; 🇯🇵 Japanese (JLPT N1)
+🇻🇳 Vietnamese (native) &nbsp;·&nbsp; 🇬🇧 English (bilingual) &nbsp;·&nbsp; 🇯🇵 Japanese (JLPT N1)
 
 ---
 
