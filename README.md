@@ -13,7 +13,7 @@ Originally from Vietnam — passionate about AI systems that work in multilingua
 Fine-tuned Qwen2.5-Math and Gemma-7B with QLoRA on a 5,360-sample Vietnamese math dataset built from scratch.
 Improved accuracy from **36% → 72%** and designed an LLM-as-a-Judge evaluation pipeline using Gemini.
 
-### [Regime-Gated Physics/Data Hybrid for Hot-Deformation Flow Stress](https://github.com/vatine12/Hybrid-PGNN-Al6011-Hot-Deformation)
+### [Hybrid PGNN — Regime-Gated Physics/Data Networks for Al 6011-O Hot-Deformation Flow Stress](https://github.com/vatine12/Hybrid-PGNN-Al6011-Hot-Deformation)
 *Paper in preparation*
 
 A hybrid neural network for predicting the flow stress of Al 6011-O during hot deformation. An **Arrhenius physics expert** — a differentiable constitutive layer that learns physically meaningful parameters (activation energy, stress exponent) — is blended with a **data-driven expert** by a learned gate that discovers *where the physical law is valid*. The model matches the physics model in the hot-working regime, matches a black-box model in the dynamic-strain-aging regime where Arrhenius breaks down, and generalizes better than either alone to unseen conditions under **leave-one-condition-out** testing. Learned activation energy Q ≈ 180 kJ/mol matches literature. PyTorch · Kaggle GPU
