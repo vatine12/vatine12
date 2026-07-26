@@ -32,13 +32,13 @@ A graph-fused BART that decides **at every decoding step** whether a knowledge-g
 Real-time obstacle detection + spatial audio feedback on Raspberry Pi 4.
 YOLOv8n · Stereo Vision · ByteTrack · TensorFlow Lite · Trained on H200 GPU
 
-🥈 **Top 5 — Vietnam-Japan AI Hackathon 2025**
+🥈 **Top 5 - Vietnam-Japan AI Hackathon 2025**
 
 ### AI-Enabled Robots for Parkinson's Patients
-🥇 **Gold Medal — 1i1w Innovation & Design Competition, Turkey 2023**
+🥇 **Gold Medal - 1i1w Innovation & Design Competition, Turkey 2023**
 
 ### IoT Intravenous Fluid Monitoring System
-🥇 **Gold Award — Advanced Innovation Global Competition, Singapore 2022**
+🥇 **Gold Award - Advanced Innovation Global Competition, Singapore 2022**
 
 ---
 
