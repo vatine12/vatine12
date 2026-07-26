@@ -8,7 +8,7 @@ Originally from Vietnam - passionate about AI systems that work in multilingual 
 ## 🔬 Research
 
 ### [LLMs for Vietnamese Probability & Statistics Problem Solving](https://github.com/vatine12/LLM-VietMath)
-*Published at NSA2026 — Vietnam's National Conference on Natural Sciences and Applications*
+*Published at NSA2026 - Vietnam's National Conference on Natural Sciences and Applications*
 
 Fine-tuned Qwen2.5-Math and Gemma-7B with QLoRA on a 5,360-sample Vietnamese math dataset built from scratch.
 Improved accuracy from **36% → 72%** and designed an LLM-as-a-Judge evaluation pipeline using Gemini.
@@ -16,13 +16,13 @@ Improved accuracy from **36% → 72%** and designed an LLM-as-a-Judge evaluation
 ### [Hybrid PGNN - Regime-Gated Physics/Data Networks for Al 6011-O Hot-Deformation Flow Stress](https://github.com/vatine12/Hybrid-PGNN-Al6011-Hot-Deformation)
 *Paper in preparation*
 
-A hybrid neural network for predicting the flow stress of Al 6011-O during hot deformation. An **Arrhenius physics expert** - a differentiable constitutive layer that learns physically meaningful parameters (activation energy, stress exponent) — is blended with a **data-driven expert** by a learned gate that discovers *where the physical law is valid*. The model matches the physics model in the hot-working regime, matches a black-box model in the dynamic-strain-aging regime where Arrhenius breaks down, and generalizes better than either alone to unseen conditions under **leave-one-condition-out** testing. Learned activation energy Q ≈ 180 kJ/mol matches literature. PyTorch · Kaggle GPU
+A hybrid neural network for predicting the flow stress of Al 6011-O during hot deformation. An **Arrhenius physics expert** - a differentiable constitutive layer that learns physically meaningful parameters (activation energy, stress exponent) - is blended with a **data-driven expert** by a learned gate that discovers *where the physical law is valid*. The model matches the physics model in the hot-working regime, matches a black-box model in the dynamic-strain-aging regime where Arrhenius breaks down, and generalizes better than either alone to unseen conditions under **leave-one-condition-out** testing. Learned activation energy Q ≈ 180 kJ/mol matches literature. PyTorch · Kaggle GPU
 
 ### [Dual-Head Adaptive GNN - Decoder-Conditioned Entity Control for Faithful KG-to-Text](https://github.com/vatine12/Dual-Head-Adaptive-GNN)
 
 *Work in progress*
 
-A graph-fused BART that decides **at every decoding step** whether a knowledge-graph entity should be mentioned now and which one — then guarantees it is realized correctly. A shared **R-GCN** feeds two heads: one fusing graph context into the decoder, one refining entity representations for the selection decision. Confidence and language-model compatibility gates keep interventions safe, while exact entity commitment and trie-based name completion handle surface realization. On WebNLG, entity hallucination drops **5.01% → 1.19%** and entity recall rises **78.5% → 86.4%** with BLEU improving **47.4 → 48.8**. PyTorch · PyTorch Geometric · BART · Colab A100
+A graph-fused BART that decides **at every decoding step** whether a knowledge-graph entity should be mentioned now and which one - then guarantees it is realized correctly. A shared **R-GCN** feeds two heads: one fusing graph context into the decoder, one refining entity representations for the selection decision. Confidence and language-model compatibility gates keep interventions safe, while exact entity commitment and trie-based name completion handle surface realization. On WebNLG, entity hallucination drops **5.01% → 1.19%** and entity recall rises **78.5% → 86.4%** with BLEU improving **47.4 → 48.8**. PyTorch · PyTorch Geometric · BART · Colab A100
 
 ---
 
