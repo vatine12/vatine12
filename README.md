@@ -1,7 +1,7 @@
 # Hi, I'm Minh (Vatine) 👋
 
 I'm a 2nd year CS student at **Keio University** (SFC), focusing on **Machine Learning** and **NLP**.
-Originally from Vietnam — passionate about AI systems that work in multilingual and low-resource settings.
+Originally from Vietnam - passionate about AI systems that work in multilingual and low-resource settings.
 
 ---
 
